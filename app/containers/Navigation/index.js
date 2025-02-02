@@ -158,7 +158,7 @@ class Navigation extends React.PureComponent {
                   />
                 )}
                 <Link to='/'>
-                  <image className="logo" src="/images/1.png"/>
+                  <img className="logo" src="/images/1.png"/>
                 </Link>
               </div>
             </Col>
